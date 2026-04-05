@@ -1,16 +1,34 @@
-# React + Vite
+#  Finance Dashboard UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **Finance Dashboard** built using React and Tailwind CSS.  
+This project focuses on clean UI design, smooth user experience, and component structuring.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Dashboard overview with financial stats
+- Login page with demo users
+- Dark / Light mode toggle
+- Real-time styled UI components
+- Insights section (UI-based)
+- Role-based view (Admin / Viewer)
+- Smooth animations and modern design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React, Tailwind CSS, JavaScript, React Router, Lucide Icons
+
+---
+
+##  Demo Credentials
+
+| Role   | Email                  | Password   |
+|--------|------------------------|-----------|
+| Admin  | admin@financeapp.com   | admin123  |
+| Viewer | viewer@financeapp.com  | viewer123 |
+
+---
+
