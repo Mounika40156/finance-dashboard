@@ -1,0 +1,5 @@
+export const formatINR = (amount) =>
+  `₹${Number(amount).toLocaleString("en-IN", {
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 2,
+  })}`
